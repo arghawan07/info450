@@ -7035,28 +7035,31 @@
          {"name": "Enzo FERNANDEZ"},
          {"name": "Julian ALVAREZ"},
          {"name": "Lionel MESSI", "captain": true}],
-       "bench": 
-        [{"name": "Nahuel MOLINA"},
-         {"name": "Nicolas OTAMENDI"},
-         {"name": "Facundo MEDINA"},
-         {"name": "Giuliano SIMEONE"},
-         {"name": "Leandro PAREDES"},
-         {"name": "Marcos SENESI"}],
-       "subs": 
-        [{"on": "Nicolas OTAMENDI",
-          "off": "Lisandro MARTINEZ",
-          "minute": "44"},
-         {"on": "Leandro PAREDES", "off": "Nico GONZALEZ", "minute": "46"},
-         {"on": "Nahuel MOLINA", "off": "Gonzalo MONTIEL", "minute": "58"},
-         {"on": "Giuliano SIMEONE", "off": "Rodrigo DE PAUL", "minute": "70"},
-         {"on": "Facundo MEDINA", "off": "Cristian ROMERO", "minute": "70"},
-         {"on": "Marcos SENESI", "off": "Julian ALVAREZ", "minute": "102"}]}],
-    "bookings": 
-     [[],
-      [{"type": "Y", "name": "Lisandro MARTINEZ", "minute": "41"},
-       {"type": "Y", "name": "Leandro PAREDES", "minute": "52"},
-       {"type": "Y", "name": "Enzo FERNANDEZ", "minute": "82"},
-       {"type": "Y", "name": "Cristian ROMERO", "minute": "90+2"},
-       {"type": "Y/R", "name": "Enzo FERNANDEZ", "minute": "90+3"},
-       {"type": "Y", "name": "Alexis MAC ALLISTER", "minute": "111"}]],
-    "referees": [{"name": "Slavko VINCIC", "country": "SVN"}]}]}
+"bench": [
+      {"name": "Nahuel MOLINA"},
+      {"name": "Nicolas OTAMENDI"},
+      {"name": "Facundo MEDINA"},
+      {"name": "Giuliano SIMEONE"},
+      {"name": "Leandro PAREDES"},
+      {"name": "Marcos SENESI"}
+    ],
+    "subs": [
+      {"on": "Nicolas OTAMENDI", "off": "Lisandro MARTINEZ", "minute": "44"},
+      {"on": "Leandro PAREDES", "off": "Nico GONZALEZ", "minute": "46"},
+      {"on": "Nahuel MOLINA", "off": "Gonzalo MONTIEL", "minute": "58"},
+      {"on": "Giuliano SIMEONE", "off": "Rodrigo DE PAUL", "minute": "70"},
+      {"on": "Facundo MEDINA", "off": "Cristian ROMERO", "minute": "70"},
+      {"on": "Marcos SENESI", "off": "Julian ALVAREZ", "minute": "102"}
+    ],
+    "bookings": [
+      {"type": "Y", "name": "Lisandro MARTINEZ", "minute": "41"},
+      {"type": "Y", "name": "Leandro PAREDES", "minute": "52"},
+      {"type": "Y", "name": "Enzo FERNANDEZ", "minute": "82"},
+      {"type": "Y", "name": "Cristian ROMERO", "minute": "90+2"},
+      {"type": "Y/R", "name": "Enzo FERNANDEZ", "minute": "90+3"},
+      {"type": "Y", "name": "Alexis MAC ALLISTER", "minute": "111"}
+    ],
+    "referees": [{"name": "Slavko VINCIC", "country": "SVN"}]
+  }]
+}
+
