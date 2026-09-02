@@ -7050,7 +7050,7 @@
       {"on": "Giuliano SIMEONE", "off": "Rodrigo DE PAUL", "minute": "70"},
       {"on": "Facundo MEDINA", "off": "Cristian ROMERO", "minute": "70"},
       {"on": "Marcos SENESI", "off": "Julian ALVAREZ", "minute": "102"}
-    ],
+          ]}],
     "bookings": [
       {"type": "Y", "name": "Lisandro MARTINEZ", "minute": "41"},
       {"type": "Y", "name": "Leandro PAREDES", "minute": "52"},
